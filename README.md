@@ -8,6 +8,8 @@ This data set includes information about individual rides made in a bike-sharing
 
 Bay area. The dataset contains 183412 rows and 16 columns.
 
+Th dataset can be downloaded using this link: https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv
+
 
 ## Summary of Findings
 
